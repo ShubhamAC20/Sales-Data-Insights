@@ -1,11 +1,9 @@
 # Sales-Data-Insights
 
-1.Created a Power BI Dashboard highlighting the key insights such as revenue contribution, profit margin by zone, top customers, top products, etc. of an organization. 
+• Created a Power BI Dashboard highlighting key insights such as revenue contribution, top customers, and top products of an organization.
 
-2.Started by filtering out garbage or redundant date using ETL (Extract, Transform, Load). 
+• Included more than 10 KPIs for monitoring key metrics such as sales growth, conversion rates, and average order value.
 
-3.The visual representations of the organization's data elements and the connections between them was shown using the Star-Schema Data Model. 
+• Consolidated sales data from more than 3 regional offices and 5 product categories.
 
-4.Created measures using DAX Queries to achieve the desired result
-
-5.This dashboard was created with the help of Power BI, Dax & Power Query Editor.
+• This dashboard was created with the help of Power BI, Dax & Power Query Editor.
